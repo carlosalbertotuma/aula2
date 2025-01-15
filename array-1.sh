@@ -1,3 +1,4 @@
+#!/bin/bash
 # Definir o array
 arqSen1=('/.travis.yml' '/.htaccess' '/.bash_history' '/.ssh/known_hosts')
 
