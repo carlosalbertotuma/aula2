@@ -1,5 +1,5 @@
 #!/bin/bash
-opcao="$1"
+opcao=${1}
 case $opcao in
     "a")
         echo "Opcao A escolhida"
